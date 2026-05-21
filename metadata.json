@@ -1,0 +1,6 @@
+{
+  "name": "娛樂稅與納保法記憶翻牌遊戲",
+  "description": "學習娛樂稅與納保法相關知識的記憶配對遊戲，具備計時與翻牌機會限制。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
